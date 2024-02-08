@@ -1,4 +1,4 @@
-    interface TV { // bridg and factory.roll 2007035
+    interface TV { // bride and factory.roll 2007035
     boolean isEnabled();
     void enable();
     void disable();
